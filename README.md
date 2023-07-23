@@ -9,7 +9,7 @@ Python Django full-stack Developer I Have knowledge Using Python,Django,Html,CSS
 
 * 🌍  I'm based in Egypt - Mansoura
 * 🖥️  See my portfolio at [My\_Linkedin](https://www.linkedin.com/in/abdelrahman-elsaeid-5115ab1ab/)
-* 🧠  I'm learning django4\_ByExamples , {doker,redis,celery, Amazon Web Services (AWS)
+* 🧠  I'm learning Django
 * 😎 [My Certificates](https://github.com/AbdelrahmanElsaeid/My-Certificates)
 
 
