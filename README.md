@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrhamn Elsaeid
 ===========================================================================================================================================
+[![GitHub followers](https://img.shields.io/github/followers/AbdelrahmanElsaeid ?label=Github%20Followers&style=for-the-badge)](https://github.com/AbdelrahmanElsaeid)
+
+[![Linkedin: Abdelrahman Elsaeid](https://img.shields.io/badge/-AbdelrahmanElsaeid -blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-elsaeid-5115ab1ab/)](https://www.linkedin.com/in/abdelrahman-elsaeid-5115ab1ab/)
 
 Python Django Full\_Stack Developer
 -----------------------------------
