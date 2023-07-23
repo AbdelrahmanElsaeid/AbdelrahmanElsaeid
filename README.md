@@ -10,6 +10,7 @@ Python Django full-stack Developer I Have knowledge Using Python,Django,Html,CSS
 * 🌍  I'm based in Egypt - Mansoura
 * 🖥️  See my portfolio at [My\_Linkedin](https://www.linkedin.com/in/abdelrahman-elsaeid-5115ab1ab/)
 * 🧠  I'm learning django4\_ByExamples , {doker,redis,celery, Amazon Web Services (AWS)
+* 😎 [My Certificates](https://github.com/AbdelrahmanElsaeid/My-Certificates)
 
 
 ### Skills
@@ -26,13 +27,20 @@ Python Django full-stack Developer I Have knowledge Using Python,Django,Html,CSS
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="36" height="36" alt="Django" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="36" height="36" alt="GitHub" /></a>
+</p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
+</p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="Postgresql" /></a>
+</p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+
+
+
 
 
 
