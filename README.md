@@ -8,7 +8,7 @@ Python Django Full\_Stack Developer
 Python Django full-stack Developer I Have knowledge Using Python,Django,Html,CSS,JavaScript,Responsive Web_Design
 
 * 🌍  I'm based in Egypt - Mansoura
-* 🖥️  See my portfolio at [My\_Linkedin](https://www.linkedin.com/in/abdelrahman-elsaeid/)
+* 🖥️  See my portfolio at [My\_Linkedin](https://www.linkedin.com/in/abdelrahman-elsaid-abd/)
 * 🧠  I'm learning Django
 * 😎 [My Certificates](https://github.com/AbdelrahmanElsaeid/My-Certificates)
 
@@ -40,7 +40,7 @@ Python Django full-stack Developer I Have knowledge Using Python,Django,Html,CSS
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/AbdelrahmanElsaeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdelrahman-elsaeid-5115ab1ab/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/AbdelrahmanElsaeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/AbdelrahmanElsaeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdelrahman-elsaid-abd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/AbdelrahmanElsaeid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 <a href="https://github.com/AbdelrahmanElsaeid"><img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanElsaeid&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="AbdelrahmanElsaeid GitHub stats" /></a>
 
